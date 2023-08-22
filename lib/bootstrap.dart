@@ -25,7 +25,7 @@ Future<void> bootstrap({
       runApp(
         OrientationBuilder(
           builder: (context, orientation) => ScreenUtilInit(
-            designSize: orientation == Orientation.portrait ? const Size(390, 844) : const Size(844, 390),
+            designSize: orientation == Orientation.portrait ? const Size(414, 844) : const Size(896, 414),
             builder: (ctx, _) => EasyLocalization(
               path: 'assets/translations',
               assetLoader: JsonAssetLoader(),
