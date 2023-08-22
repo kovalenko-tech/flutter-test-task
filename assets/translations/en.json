@@ -1,1 +1,23 @@
-{}
+{
+    "choice": {
+        "options": {
+            "1": {
+                "subtitle": "contraception and wellbeing",
+                "title": "Track my period"
+            },
+            "2": {
+                "subtitle": "learn about reproductive health",
+                "title": "Get pregnant"
+            }
+        }
+    },
+    "date_of_birth": {
+        "button": {
+            "next": "Next"
+        },
+        "title": "Log in your date of birth"
+    },
+    "result": {
+        "title": "result"
+    }
+}
