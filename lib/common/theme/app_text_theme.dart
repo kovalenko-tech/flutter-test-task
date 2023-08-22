@@ -37,7 +37,7 @@ class AppTextTheme extends TextTheme {
         header3: AppThemeTextStyle(colorScheme).merge(
           GoogleFonts.nunito(
             color: colorScheme.black,
-            fontWeight: FontWeight.w900,
+            fontWeight: FontWeight.w700,
             fontStyle: FontStyle.normal,
             fontSize: 25.sp,
           ),
